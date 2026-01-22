@@ -1,0 +1,17 @@
+﻿@model Car.Core.Entities.Car
+
+<h1>Delete Car</h1>
+
+<p>Are you sure you want to delete this car?</p>
+
+<ul>
+    <li><strong>Make:</strong> @Model.Make</li>
+    <li><strong>Model:</strong> @Model.Model</li>
+    <li><strong>Year:</strong> @Model.Year</li>
+</ul>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
