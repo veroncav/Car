@@ -14,5 +14,8 @@ namespace Car.Core.Entities
 
         public DateTime CreatedAt { get; set; }
         public DateTime ModifiedAt { get; set; }
+        public string? ImageUrl { get; set; }
+        public bool IsUsed { get; set; }
+
     }
 }
