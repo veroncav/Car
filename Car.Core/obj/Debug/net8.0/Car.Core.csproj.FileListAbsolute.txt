@@ -1,0 +1,15 @@
+C:\Users\veron\source\repos\Car\Car.Core\bin\Debug\net8.0\Car.Core.deps.json
+C:\Users\veron\source\repos\Car\Car.Core\bin\Debug\net8.0\Car.Core.dll
+C:\Users\veron\source\repos\Car\Car.Core\bin\Debug\net8.0\Car.Core.pdb
+C:\Users\veron\source\repos\Car\Car.Core\obj\Debug\net8.0\Car.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\source\repos\Car\Car.Core\obj\Debug\net8.0\Car.Core.AssemblyInfoInputs.cache
+C:\Users\veron\source\repos\Car\Car.Core\obj\Debug\net8.0\Car.Core.AssemblyInfo.cs
+C:\Users\veron\source\repos\Car\Car.Core\obj\Debug\net8.0\Car.Core.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\Car\Car.Core\obj\Debug\net8.0\Car.Core.sourcelink.json
+C:\Users\veron\source\repos\Car\Car.Core\obj\Debug\net8.0\Car.Core.dll
+C:\Users\veron\source\repos\Car\Car.Core\obj\Debug\net8.0\refint\Car.Core.dll
+C:\Users\veron\source\repos\Car\Car.Core\obj\Debug\net8.0\Car.Core.pdb
+C:\Users\veron\source\repos\Car\Car.Core\obj\Debug\net8.0\ref\Car.Core.dll
+C:\Users\veron\source\repos\Car\Car.Core\obj\Debug\net8.0\Car.Core.csproj.AssemblyReference.cache
+C:\Users\veron\source\repos\Car\Car.Core\bin\Debug\net8.0\Car.Core.runtimeconfig.json
+C:\Users\veron\source\repos\Car\Car.Core\obj\Debug\net8.0\Car.Core.genruntimeconfig.cache
